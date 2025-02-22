@@ -11,7 +11,7 @@ function userScroll() {
     });
 }
 
-document.addEventListener('DOMContentLoaded', userScroll);
+// document.addEventListener('DOMContentLoaded', userScroll);
 
 $('#ecosystem .carousel .carousel-item').each(function () {
     var minPerSlide = 1;
